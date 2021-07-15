@@ -1,0 +1,7 @@
+# ignore directories
+__pycache__/
+ENV/
+
+# ignore files
+/local_settings.py
+*.pyc
